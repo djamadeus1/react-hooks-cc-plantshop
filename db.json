@@ -4,43 +4,85 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "soldOut": false
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "soldOut": false
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 5.99,
+      "soldOut": false
     },
     {
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": 12.11,
+      "soldOut": false
     },
     {
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": 10.37,
+      "soldOut": false
     },
     {
       "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
-      "price": 25.99
+      "price": 25.99,
+      "soldOut": false
     },
     {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "price": 55,
+      "soldOut": false
+    },
+    {
+      "name": "Sunflower",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/1200px-Sunflower_sky_backdrop.jpg",
+      "price": 21.75,
+      "id": 8,
+      "soldOut": false
+    },
+    {
+      "name": "Yellow Roses",
+      "image": "https://m.media-amazon.com/images/I/61vpJFQ0tlL._AC_SY879_.jpg",
+      "price": 75.19,
+      "id": 9,
+      "soldOut": false
+    },
+    {
+      "name": "Red Roses",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvRx6g8yDrXyBObMmb643iHe2jEnIsZrttyQIWHe9TpkgCjFHKF1my4tUZr9nJ25eVoTj-0Ud3XWM1EvVSRhnQfji741iHIQbsbrypynigInZFYfm23ip2xgaPAKVlVkkYRS8Hel0Ri4w&usqp=CAc",
+      "price": 99.24,
+      "id": 10,
+      "soldOut": false
+    },
+    {
+      "name": "Venus Fly Tarp",
+      "image": "https://www.carnivero.com/cdn/shop/files/PXL_20240523_161752482.PORTRAIT.ORIGINAL.jpg?v=1716504704&width=1445",
+      "price": 37.56,
+      "id": 11,
+      "soldOut": false
+    },
+    {
+      "name": "Serenity Bronze African Daisies",
+      "image": "https://m.media-amazon.com/images/I/71gJOmD6BsL._AC_SX679_.jpg",
+      "price": 97.85,
+      "id": 12,
+      "soldOut": false
     }
   ]
 }

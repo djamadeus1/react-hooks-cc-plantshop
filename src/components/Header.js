@@ -1,4 +1,5 @@
 import React from "react";
+//import Search from "./Search";
 
 function Header() {
   return (
@@ -9,6 +10,7 @@ function Header() {
           🌱
         </span>
       </h1>
+      {/* <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} /> {} */}
     </header>
   );
 }
